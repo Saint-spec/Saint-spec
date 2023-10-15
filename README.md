@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I a military veteran and a current student. I love learning new technologies and the goal is to become a software engineer soon. 
 <!--
 **Saint-spec/Saint-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
